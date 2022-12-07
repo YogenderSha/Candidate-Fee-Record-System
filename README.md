@@ -7,3 +7,7 @@ Add Record <br>
 Edit Record <br>
 Delete Record <br>
 Logout Page <br>
+
+<br>
+
+  
