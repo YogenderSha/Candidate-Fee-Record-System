@@ -9,5 +9,6 @@ Delete Record <br>
 Logout Page <br>
 
 <br>
-
+<h2>Functionalities</h2>
+<img src="caption.png" alt="Login Page">
   
