@@ -36,4 +36,4 @@ Logout Page <br>
 <img src="DELETE.PNG" alt="Login Page" width="700" height="500">
 
 <h2>Tecnologies Included</h2>
-Visual Studio, C#, Windows Form Application, SQL Studio 2019 
+Visual Studio(.NET Framework), C#, Windows Form Application, SQL Studio 2019 
