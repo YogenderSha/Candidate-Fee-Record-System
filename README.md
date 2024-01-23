@@ -35,5 +35,9 @@ Logout Page <br>
   <h3>DELETE</h3>
 <img src="DELETE.PNG" alt="Login Page" width="700" height="500">
 
+<br>
+  <h3>DELETE</h3>
+<img src="LOGOUT.PNG" alt="Login Page" width="500" height="500">
+
 <h2>Tecnologies Stack</h2>
 Visual Studio(.NET Framework), C#, Windows Form Application,Microsoft SQL Server Studio 2018 
